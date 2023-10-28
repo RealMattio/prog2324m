@@ -2,3 +2,7 @@ carne
 pesce
 maiale
 dolcetti
+-------
+sapone
+detersivo
+spugne

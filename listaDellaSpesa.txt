@@ -1,3 +1,4 @@
 carne
 pesce
 maiale
+dolcetti

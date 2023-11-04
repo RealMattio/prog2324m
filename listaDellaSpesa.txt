@@ -1,4 +1,5 @@
 carne
+insalata
 pesce
 maiale
 dolcetti

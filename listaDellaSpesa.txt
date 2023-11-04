@@ -3,6 +3,8 @@ insalata
 pesce
 maiale
 dolcetti
+formaggio
+marmellata di pere
 -------
 sapone
 detersivo
